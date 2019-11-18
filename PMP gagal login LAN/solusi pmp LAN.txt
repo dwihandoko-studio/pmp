@@ -1,0 +1,4 @@
+Solusi PMP gagal Login via Lan dan Wifi
+Ganti file yang terletak di :
+C:\Program Files (x86)\EDSDikdasmen\dataweb\frontend\static\js
+main.aaf960b3       type: JScript File
